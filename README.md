@@ -67,4 +67,4 @@ Welcome to Case Converter project ! This python based application allows user to
 <img src = "https://github.com/Omkar-bhambe/Case_Converter/blob/main/Output/Upper_Case.png" height = "500">
 
 ##### Lower Case Conversion
-<img src = "">
+<img src = "https://github.com/Omkar-bhambe/Case_Converter/blob/main/Output/Lower_Case.png" height = "500">
