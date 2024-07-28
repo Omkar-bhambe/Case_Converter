@@ -61,6 +61,6 @@ Welcome to Case Converter project ! This python based application allows user to
 #### An overview of how it will look 
 
 ##### First Page
-<img src = "https://github.com/Omkar-bhambe/Case_Converter/blob/main/Output/First%20Page.png" height="500" width = "250">
+<img src = "https://github.com/Omkar-bhambe/Case_Converter/blob/main/Output/First%20Page.png" height="500">
 
 **Upper Case Conversion**
